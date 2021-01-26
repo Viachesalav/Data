@@ -20,3 +20,5 @@ for col in range(len(df)):
 LTV=6.99*count_subs
 
 print(LTV)
+
+input()
